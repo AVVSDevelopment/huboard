@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = FayeExtensions::VERSION
   s.authors     = [""]
   s.email       = [""]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Saas."
-  s.description = "TODO: Description of Saas."
+  s.homepage    = ""
+  s.summary     = "Summary of Saas."
+  s.description = "Description of Saas."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
